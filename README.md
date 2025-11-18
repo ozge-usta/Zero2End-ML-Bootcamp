@@ -63,13 +63,21 @@ Notebook'lardaki kaynaklar:
 - [Scikit-learn dokümantasyonu](https://scikit-learn.org/stable/)
 - [UCI ML Repository Datasets](https://archive.ics.uci.edu/datasets)
 
+Topluluktan Gelenler:
+- [Transkript dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/pythona_giris_ve_temel_veri_kutuphaneleri__goker_guner.pdf)
+- [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/pythona_giris_ve_temel_veri_kutuphaneleri_-_one_cikan_maddeler_-_ozet_-_goker_guner.pdf)
+
 </details>
 
 ### [Ders 4: Olasılık, İstatistik & Lineer Cebir](https://www.youtube.com/watch?v=yH1QCgItkM4) - [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
 <details>
 <summary>Click to expand!</summary>
 
-
+Topluluktan Gelenler:
+- [Transkript Dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/olasilik_istatistik__lineer_cebir_-_engin_deniz_alpman.pdf)
+- [Ücretsiz AI Kursları](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/Free_AI_Courses_List.pdf)
+- [Ders Notları](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/olasilik_istatistik__lineer_cebir_-_kendime_notlar_-_engin_deniz_alpman.pdf)
+- [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/olasilik_istatistik__lineer_cebir_-_one_cikan_maddeler_ozet_-_engin_deniz_alpman.pdf)
 
 </details>
 
