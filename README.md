@@ -127,7 +127,8 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
 
-
+📂 **Ders Materyalleri**
+- [Proje Dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/Ranking.ipynb)
 
 </details>
 
