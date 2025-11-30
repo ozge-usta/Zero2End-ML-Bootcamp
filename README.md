@@ -126,6 +126,7 @@ Topluluktan Gelenler:
 ### [Ders 8: Ranking](https://www.youtube.com/watch?v=2NuyB8Gt2oI) - [Özge Usta](https://www.linkedin.com/in/ozge-usta/)
 <details>
 <summary>Click to expand!</summary>
+
 📂 **Ders Materyalleri**
 - [Proje Dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/Ranking.ipynb)
 
